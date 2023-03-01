@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\bin\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.exe
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\bin\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.deps.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\bin\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\bin\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\bin\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\refint\LABORATORIO1+EmersonEliMendozaLemus.dll
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.pdb
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\LABORATORIO1+EmersonEliMendozaLemus.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\LABORATORIO1+EmersonEliMendozaLemus\LABORATORIO1+EmersonEliMendozaLemus\obj\Debug\net6.0\ref\LABORATORIO1+EmersonEliMendozaLemus.dll
